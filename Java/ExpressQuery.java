@@ -26,6 +26,7 @@ public class ExpressQuery {
     public static void main(String[] args) throws IOException, NoSuchAlgorithmException, JSONException {
         final ExpressQuery api = new ExpressQuery();
         String result = api.query("Company", "ExpressNo");
+        // 无格式化输出
         System.out.println(result);
         if (result == "输入了无效字符") {
             System.out.println(result);
