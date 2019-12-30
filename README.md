@@ -7,5 +7,7 @@ Java文件夹的 ExpressQuery.java 是对接快递鸟API，EBusinessID（用户I
 官方demo：http://www.kdniao.com/documents-demo
 
 对官方demo的改动：
+
 1.直接使用Java的类库进行base64编码
+
 2.对输入的单号进行简单的中文检测，对返回的json字符串做了一点格式化输出。
