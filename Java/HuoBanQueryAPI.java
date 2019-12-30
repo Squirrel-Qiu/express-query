@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package org.tencent;
 
 import com.alibaba.fastjson.JSON;
@@ -109,3 +110,6 @@ public class HuoBanQueryAPI {
         }
     }
 }
+=======
+
+>>>>>>> 901002f132053d95152863f267afe6ba9fb7db47
