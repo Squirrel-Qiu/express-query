@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ExpressQuery {
+public class KdniaoQueryAPI {
     private String EBusinessID = "*******";
     private String AppKey = "************************";
     private String ReqUrl = "http://api.kdniao.com/Ebusiness/EbusinessOrderHandle.aspx";
